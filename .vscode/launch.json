@@ -10,6 +10,7 @@
             "request": "launch",
             "mode": "auto",
             "program": "${fileDirname}",
+            "cwd": "example",
             "args": [
                 //"-i", "../../sprites/player/Chica-SpearDown.aseprite;../../sprites/player/Chica-WalkDown.aseprite;../../sprites/player/Chica-Idle-Down.aseprite",
                 //"-o", "chica-shapes.go", "-p", "shapes"]

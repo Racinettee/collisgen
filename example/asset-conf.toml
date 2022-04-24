@@ -1,9 +1,8 @@
 # Example config
 Package = "shapes"
-AssetPath = "../../sprites/player"
+AssetPath = "."
 OutFile = "chica-shapes.go"
 Files = [
     "Chica-SpearDown.aseprite",
-    "Chica-WalkDown.aseprite",
     "Chica-Idle-Down.aseprite"
 ]
